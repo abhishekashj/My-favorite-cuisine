@@ -1,4 +1,5 @@
-![Untitled design](https://user-images.githubusercontent.com/65420004/180659905-25df4a63-6f62-4a09-85a5-86803d7796b2.jpg)
+![image](https://github.com/abhishekashj/My-favorite-cuisine/assets/85212273/4655083d-0a9f-46e4-9601-44b2af041b07)
+
 
 
 # Build A React JS Website Styled With Tailwind CSS
